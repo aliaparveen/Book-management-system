@@ -1,0 +1,18 @@
+.form-group{
+    /* background: #34495e;  tablebg e74c3c #34495e  #88565b ed7271*/
+ 
+    background: #30b0fa;
+     margin: 30px auto;
+     width: 0px;
+     height: 300px;
+     position: relative;
+     font-family: 'Roboto';
+     margin-left: 400px;
+   }
+   input{
+       outline:#30b0fa;
+   }
+   h3{
+       color:#30b0fa;
+       align-items: center;
+   }
